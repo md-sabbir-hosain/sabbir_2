@@ -2,5 +2,4 @@ main(){
 
   print(' sabbir valo ');
 
-
 }
